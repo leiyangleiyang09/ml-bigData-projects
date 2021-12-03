@@ -10,5 +10,8 @@ Lei Yang's hand-on projects
 3.**Name**:Sentiment Analysis from face expression using conventional Machine Learning and neural networks.   
   **Briefing**: Human face expression picture data with conventional ML algorithms only achieved a best of 56% accuracy using Random Forest. Conventional Neural Network improved sentiment prediction by over 10%
 
-4.**Name**:Customer churn Analysis in Telecom Industry     
+4.**Name**:Customer churn Analysis in Telecom Industry         
   **Briefing**:Binary data using conventional Machine learning method 
+  
+5.**Name**:AI-enabled Assessment Marketing Challenge 1.   
+  **Briefing**:Big Data Society Hackathon 2021 the second place

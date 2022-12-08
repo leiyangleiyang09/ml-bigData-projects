@@ -1,3 +1,5 @@
+Lei Yang's ML Hand-on Projects
+
 1.**Name**: Facilitating Local Farmers in Nigeria with Credit Scoring.   
   **Briefing**: –	Data integration
                 –	Model pipeline for binary credit dataset including Logistic Regression, SVM, Random Forest, CNN etc. ROC-AUC reached 81% 

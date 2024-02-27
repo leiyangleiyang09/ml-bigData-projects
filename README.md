@@ -6,6 +6,7 @@
 * Developed advanced crossover and mutation strategies, empowered by GPT via the OpenAI API, to maintain the contextual integrity of generative prompts in an e-commerce chatbot application.
 * Implemented and fine-tuned the algorithm leading to a marked increase in the efficiency of chatbot onboarding (overall fitness score is over 0.8).
 * Presentation link: https://youtu.be/x04lu5ysx48?si=GH3QDEW7UyAcFOK5
+* Link to the project's Git repository: https://github.com/AbrrenC/OpenDI-Hackathon-2023_Hackit/tree/main
 
 **Debt Recovery Email Engagement Optimization**                                                 Nov 2023
 * Analyzed in-depth email interaction data within the debt recovery industry, focusing on data cleansing and preprocessing for enhanced model accuracy.
@@ -37,6 +38,7 @@
 * Understanding data structure, replicate computational environment, compare performance
 * Model reproduction
 * New data collection and annotation, assess new data annotator agreement, transform data format, evaluate new data, compare the results
+* Link to the project's Git repository:https://github.com/lei-yang5/COMP8240project
 
 **COVID-19 Research Paper Abstract Text Analysis and Visualization**   
 * Analyse metadata of paper abstract text(over 700,000 instances) for initial exploration of clusterings, topics and representative words using Natural Language Toolkit and visualization 
